@@ -5,5 +5,3 @@ def Convert(num):
         num = num // 2
         binary = str(bit) + binary
     return binary
-
-print(Convert(24))
